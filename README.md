@@ -114,7 +114,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ### Authors
 
-- **Aniruddha Nayek** - Obtaining data, Simulation of obtaining geological-information through sensors using Arduino, helping teammates.
+- **Aniruddha Nayek** - Simulation of obtaining geological-information through sensors using Arduino, helping teammates.
 - **Ashwin Hendre** - Dummy data preprocessing, PCA, Documentation
 - **Bhagyashri Gaikwad** - Obtaining & analyzing dataset,Model Build, train & Deploy using Auto AI, GUI and Testing
 - **Chandan Abhyankar** - Project ideation, Project co-ordination and mentoring
