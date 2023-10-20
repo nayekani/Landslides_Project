@@ -13,7 +13,6 @@
   - [Project development roadmap](#project-development-roadmap)
 - [Additional details](#additional-details)
   - [How to run the project](#how-to-run-the-project)
-  - [Live demo](#live-demo)
 - [About this template](#about-this-template)
   - [Contributing](#contributing)
   - [Versioning](#versioning)
@@ -96,7 +95,7 @@ We can achieve this by planting various sensors in that region. Below we discuss
 
 ## Additional details
 
-### To run project refer below readme
+### How to run the project
 https://github.com/nayekani/Landslides_Project/blob/main/LandslidePredictionSystem/README.md
 
 ## Dataset Used:-
