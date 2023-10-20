@@ -51,7 +51,6 @@ The Landslide Prediction System is a web application that predicts the likelihoo
 2. Enter the required parameters
    including latitude, longitude etc
 
-   **Snap:-**
    
   ![Alt text](/LandslidePredictionSystem/snapshots/landslide_prediction.png)
 
