@@ -97,7 +97,7 @@ We can achieve this by planting various sensors in that region. Below we discuss
 ## Additional details
 
 ### To run project refer below readme
-https://github.com/SurajGudaji/No_more_Landslides/blob/main/LandslidePredictionSystem/README.md
+https://github.com/nayekani/Landslides_Project/blob/main/LandslidePredictionSystem/README.md
 
 ## Dataset Used:-
 Dataset we used for this application are
