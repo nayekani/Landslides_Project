@@ -57,7 +57,7 @@ Diagram and step-by-step description of the flow of our solution:
 
 ### Solution demo video
 
-Youtube link: 
+Youtube link: https://www.youtube.com.mcas.ms/watch?v=7Io4IRGpMF8
 
 ### Project development roadmap
 
